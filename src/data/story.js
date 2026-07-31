@@ -7,22 +7,22 @@ import img5 from "../assets/images/img5.jpg";
 export const story = [
   {
     image: img1,
-    text: "Hiiii Goluuuu, Just wanted to tell you somethingggg...",
+    text: "Happy Girlfriend's Day, my Gorgeous, Sweetest, and my Beautiful Princess 💖. I love you so much",
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that you took ✨",
+    text: "Your existence make me feel alive and complete. I love you so much 💕 I am so much greatful to be with you.",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "Your eternal beauty and charm gives blessing to my eyes and soul. You are the best part of my life, and I am so lucky to have you as my girlfriend. I love you so much, my princess 💖",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: "Every moment with you is a treasure, my princess 💖",
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "Yes, I love you so much💖 your beauty isn't in a single glance but in the way it lingers, growing more beautiful with each passing moment.",
   },
 ];
